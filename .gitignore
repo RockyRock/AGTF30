@@ -5,4 +5,5 @@
 *.pyc
 *.pdf
 *.slx
+*.DS_Store
 
